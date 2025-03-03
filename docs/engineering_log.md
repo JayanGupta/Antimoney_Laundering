@@ -78,3 +78,7 @@ This document tracks transaction graph feature engineering, class imbalance resa
 - **Focus**: perf: vectorize tabular feature scaling and encoding
 - **Technical Summary**: Accelerated pipeline preprocessing latency using ColumnTransformer.
 
+### Milestone Log - 2025-03-03 (10:35)
+- **Focus**: docs: add inference latency and model monitoring guide
+- **Technical Summary**: Documented p99 latency benchmarks under high-throughput transaction loads.
+
