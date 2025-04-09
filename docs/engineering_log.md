@@ -262,3 +262,7 @@ This document tracks transaction graph feature engineering, class imbalance resa
 - **Focus**: docs: add inference latency and model monitoring guide
 - **Technical Summary**: Documented p99 latency benchmarks under high-throughput transaction loads.
 
+### Milestone Log - 2025-04-09 (10:23)
+- **Focus**: docs: update XGBoost transaction fraud detection metrics
+- **Technical Summary**: Documented ROC-AUC: 0.942 and PR-AUC: 0.78 on SAML-D transaction dataset.
+
