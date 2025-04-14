@@ -286,3 +286,7 @@ This document tracks transaction graph feature engineering, class imbalance resa
 - **Focus**: docs: update XGBoost transaction fraud detection metrics
 - **Technical Summary**: Documented ROC-AUC: 0.942 and PR-AUC: 0.78 on SAML-D transaction dataset.
 
+### Milestone Log - 2025-04-14 (15:48)
+- **Focus**: refactor: optimize transaction graph feature extraction
+- **Technical Summary**: Engineered sender-receiver fan-out ratios and velocity features.
+
