@@ -438,3 +438,7 @@ This document tracks engineering milestones, experiment logs, parameter optimiza
 - **Focus**: docs: update XGBoost transaction fraud detection metrics
 - **Technical Summary**: Documented ROC-AUC: 0.942 and PR-AUC: 0.78 on SAML-D dataset.
 
+### Milestone Log - 2025-04-24 (10:15)
+- **Focus**: refactor: optimize transaction graph feature extraction
+- **Technical Summary**: Engineered sender-receiver fan-out ratios and velocity features.
+
