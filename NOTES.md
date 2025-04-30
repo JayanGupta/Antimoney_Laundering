@@ -466,3 +466,7 @@ This document tracks engineering milestones, experiment logs, parameter optimiza
 - **Focus**: refactor: optimize transaction graph feature extraction
 - **Technical Summary**: Engineered sender-receiver fan-out ratios and velocity features.
 
+### Milestone Log - 2025-04-30 (10:38)
+- **Focus**: docs: document SMOTE vs balanced class weighting
+- **Technical Summary**: Analyzed precision-recall trade-offs for rare transaction fraud detection.
+
