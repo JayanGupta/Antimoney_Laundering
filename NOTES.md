@@ -518,3 +518,7 @@ This document tracks engineering milestones, experiment logs, parameter optimiza
 - **Focus**: docs: document SMOTE vs balanced class weighting
 - **Technical Summary**: Analyzed precision-recall trade-offs for rare transaction fraud detection.
 
+### Milestone Log - 2025-05-11 (14:49)
+- **Focus**: docs: update XGBoost transaction fraud detection metrics
+- **Technical Summary**: Documented ROC-AUC: 0.942 and PR-AUC: 0.78 on SAML-D dataset.
+
