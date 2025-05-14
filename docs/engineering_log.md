@@ -434,3 +434,7 @@ This document tracks transaction graph feature engineering, class imbalance resa
 - **Focus**: docs: document SMOTE vs balanced class weighting
 - **Technical Summary**: Analyzed precision-recall trade-offs for rare fraudulent transaction detection.
 
+### Milestone Log - 2025-05-14 (10:37)
+- **Focus**: perf: vectorize tabular feature scaling and encoding
+- **Technical Summary**: Accelerated pipeline preprocessing latency using ColumnTransformer.
+
