@@ -1,18 +1,53 @@
-# Anti-Money Laundering (AML) Analysis 🚀
+<div align="center">
+  
+  # 💰 Anti-Money Laundering (AML) Analysis
 
-## Overview  
-This project provides a comprehensive analysis of the **SAML-D dataset**, aimed at enhancing **anti-money laundering (AML) strategies**. It explores **exploratory data analysis (EDA), data preprocessing, and predictive modeling** using **XGBoost Classifier** to detect suspicious financial transactions.
+  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+  [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+  [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
+  [![XGBoost](https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge&logo=python&logoColor=white)](https://xgboost.readthedocs.io/)
+  [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
 
-## Features  
-✔️ **Exploratory Data Analysis (EDA):** Statistical insights, data visualization, and anomaly detection.  
-✔️ **Data Preprocessing:** Feature engineering, encoding, normalization, and skewness correction.  
-✔️ **Machine Learning Model:** **XGBoost Classifier** trained for high-performance fraud detection.  
-✔️ **Evaluation Metrics:** ROC-AUC, confusion matrix, and true positive rate (TPR) analysis.  
+  *A high-scale machine learning project focused on detecting suspicious financial transactions using advanced AML techniques.*
+</div>
 
-## Dataset  
+---
+
+## 📖 Overview  
+This project delivers a comprehensive analysis of the **SAML-D dataset**, focusing on strengthening **anti-money laundering (AML)** strategies through **EDA, preprocessing, and predictive modeling**.  
+
+A high-performance **XGBoost Classifier** is implemented to identify suspicious financial behavior.
+
+---
+
+## 🔧 Features  
+- 📊 **Exploratory Data Analysis (EDA):** Statistical insights, visualizations, anomaly detection  
+- 🧹 **Data Preprocessing:** Feature engineering, encoding, normalization, skewness correction  
+- 🤖 **Machine Learning Model:** XGBoost classifier for fraud detection  
+- 📏 **Evaluation Metrics:** ROC-AUC, confusion matrix, TPR/FPR analysis  
+
+---
+
+## 📊 Dataset  
 - **Name:** SAML-D (Synthetic Anti-Money Laundering Dataset)  
 - **Size:** ~9.5 million transactions  
-- **Features:** Transaction details, payment types, laundering indicators, sender/receiver locations.  
+- **Features:**  
+  - Transaction details  
+  - Payment types  
+  - Laundering indicators  
+  - Sender/Receiver locations  
+
+---
+
+## 📂 Project Structure
+```text
+.
+├── 📁 data/                # Dataset files
+├── 📁 notebooks/           # EDA & model training notebooks
+├── 📁 models/              # Saved models (optional)
+├── requirements.txt       # Dependencies
+└── README.md              # Documentation
+```
 
 ## Installation  
 Clone the repository and install the required dependencies:  
@@ -51,4 +86,6 @@ pip install -r requirements.txt
 - **Suspicious Transaction Heatmaps** 🔥  
 
 ## Contributing  
-Contributions are welcome! Feel free to submit pull requests or report issues.  
+Contributions are welcome! Feel free to submit pull requests or report issues. 
+
+<p align="center"> Built with ❤️ to combat financial fraud using Data Science. </p>
